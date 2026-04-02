@@ -39,7 +39,7 @@ This project presents my role in structuring the entire people operation for the
 
 ## Headcount Evolution
 
-![Headcount](assets/headcount.png)
+![Headcount](headcount.png)
 
 ---
 
@@ -68,7 +68,7 @@ This project presents my role in structuring the entire people operation for the
 
 ## Metrics & People Analytics
 
-![KPIs](assets/indicadores.png)
+![KPIs](indicadores.png)
 
 Managed and analyzed:
 - Turnover  
@@ -103,7 +103,7 @@ Following the success of the project, I took responsibility for HR management ac
 
 ## Operational Structure
 
-![Structure](assets/estrutura.png)
+![Structure](estrutura.png)
 
 ---
 
